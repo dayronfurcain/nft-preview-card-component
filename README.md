@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [NFT preview card component](https://github.com/dayronfurcain/nft-preview-card-component)
-- Live Site URL: [NFT preview card component](https://65d589c956c7db537c472317--celadon-frangipane-168e28.netlify.app/)
+- Live Site URL: [NFT preview card component](https://65d58fbe56c7db572247231d--verdant-centaur-a32177.netlify.app/)
 
 ## My process
 
